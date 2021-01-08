@@ -1,0 +1,2 @@
+# SQLYog
+SQLYog For Teams
